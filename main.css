@@ -12,14 +12,12 @@ h1 {
  p {
   font-size: 14px;
   font-family: Arial
-<<<<<<< HEAD
 }
 
 div {
   background-color: blue;
   text-align: right;
 }
-=======
  }
  th, td {
   padding: 8px;
@@ -28,5 +26,4 @@ div {
   font-family: Arial
  }
  tr:nth-child(odd) {background-color: #f2f2f2;}
->>>>>>> add-table
 
